@@ -45,7 +45,6 @@ $(document).ready(function(){
     $('#chart').highcharts(highchartConfig); //From library
   }
 
-
   var chart = new Charts;
   chart.makeAjaxRequest();
 
